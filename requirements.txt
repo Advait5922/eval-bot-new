@@ -1,0 +1,47 @@
+Flask==2.3.3
+Flask-Cors==5.0.0
+gunicorn==21.2.0
+openai==1.42.0
+psycopg2-binary==2.9.9
+python-dotenv==1.0.1
+requests==2.31.0
+httpx==0.27.0
+numpy==1.26.4
+#pandas==2.0.3
+scipy==1.13.1
+
+
+#Flask==2.3.3
+#Flask-Cors==5.0.0
+#gunicorn==21.2.0
+#numpy==1.26.4
+#pandas==2.0.3
+#scipy==1.13.1
+#psycopg2-binary==2.9.9
+#openpyxl==3.1.2
+#requests==2.31.0
+#openai==1.42.0
+#httpx==0.27.0
+#google-cloud-storage==2.10.0
+#python-dotenv==1.0.0
+
+
+#6: **Good Relevance and Depth**
+#-- The answer is well-structured, relevant, and provides a good level of depth.
+#-- It aligns well with the role and demonstrates clarity, though it may lack some advanced insights or examples.
+
+#7: **Highly Relevant and Insightful**
+#-- The answer is highly relevant, clear, and provides strong depth and alignment with the role.
+#-- It includes good examples or insights but could still improve with more advanced analysis or creativity.
+
+#8: **Very Strong and Detailed**
+#-- The answer is highly relevant, detailed, and demonstrates excellent alignment with the role.
+#-- It provides clear insights, examples, and depth, with only minor room for improvement.
+
+#9: **Exceptional and Comprehensive**
+#-- The answer is exemplary, providing clear, detailed, and highly relevant insights.
+#-- It demonstrates strong alignment with the role, advanced analysis, and creativity, with minimal room for improvement.
+
+#10: **Outstanding and Masterful**
+#-- The answer is exceptional, providing clear, detailed, and highly relevant insights that exceed expectations.
+#-- It demonstrates mastery of the topic, advanced alignment with the role, and exceptional creativity or originality.
